@@ -1,2 +1,2 @@
 # HTML-contact-form
-HTML form with inputs validation
+HTML contact form with inputs validation
